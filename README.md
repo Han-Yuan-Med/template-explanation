@@ -3,7 +3,7 @@
 > ### Please read our [article](https://arxiv.org/pdf/2403.18871) for further information.
 
 ## Usage
-![](path_to_image)
+![](https://github.com/Han-Yuan-Med/template-explanation/blob/main/Graphical%20Abstract.png)
 *Figure 1: Overview of the proposed template-guided explanation pipeline.*
 
 ## Citation
