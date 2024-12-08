@@ -27,4 +27,4 @@
 ## Citation
 * Yuan, H., Hong, C., Jiang, P., Zhao, G., Tran, N. T. A., Xu, X., et al. Clinical Domain Knowledge-Derived Template Improves Post Hoc AI Explanations in Pneumothorax Classification. Journal of Biomedical Informatics (2024): 104673. https://doi.org/10.1016/j.jbi.2024.104673
 * Yuan, H. Anatomic Boundary‐aware Explanation for Convolutional Neural Networks in Diagnostic Radiology. iRadiology (2024): 1-16. https://doi.org/10.1002/ird3.113
-* H. Yuan, C. Hong, N. T. A. Tran, X. Xu, and N. Liu. Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation (2024): 1-18. https://doi.org/10.1002/hcs2.119
+* H. Yuan, C. Hong, N. T. A. Tran, X. Xu, and N. Liu. Leveraging Anatomical Constraints with Uncertainty for Pneumothorax Segmentation. Health Care Science (2024): 1-18. https://doi.org/10.1002/hcs2.119
